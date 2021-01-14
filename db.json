@@ -4,55 +4,36 @@
       "name":"Saitama",
       "name_jp":"埼玉県",
       "ncurrentpatients":109,
-      "ndeaths":65,"nexits":958,
-      "nheavycurrentpatients":3,
-      "ninspections":34582,
-      "npatients":1132,
-      "nunknowns":0
+      "ndeaths":65,
+      "nexits":958
     },
     {
       "name":"Chiba",
       "name_jp":"千葉県",
       "ncurrentpatients":44,
       "ndeaths":45,
-      "nexits":871,
-      "nheavycurrentpatients":2,
-      "ninspections":18287,
-      "npatients":960,
-      "nunknowns":0
+      "nexits":871
     },
     {
       "name":"Tokyo",
       "name_jp":"東京都",
       "ncurrentpatients":453,
       "ndeaths":325,
-      "nexits":5447,
-      "nheavycurrentpatients":10,
-      "ninspections":82706,
-      "npatients":6225,
-      "nunknowns":
+      "nexits":5447
     },
     {
       "name":"Kanagawa",
       "name_jp":"神奈川県",
       "ncurrentpatients":68,
       "ndeaths":96,
-      "nexits":1338,
-      "nheavycurrentpatients":10,
-      "ninspections":12551,
-      "npatients":1502,
-      "nunknowns":0
+      "nexits":1338
     },
     {
       "name":"Osaka",
       "name_jp":"大阪府",
       "ncurrentpatients":25,
       "ndeaths":86,
-      "nexits":1705,
-      "nheavycurrentpatients":3,
-      "ninspections":39970,
-      "npatients":1816,
-      "nunknowns":0
+      "nexits":1705
     }
   ],
   "description":"各都道府県の検査陽性者の状況(空港検疫、チャーター便案件を除く国内事例)",
